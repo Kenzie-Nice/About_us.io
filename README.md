@@ -8,15 +8,17 @@
     .blue {
       color: blue;
     }
+    iframe {
+      width: 100%;
+      height: 600px; /* Adjust height as needed */
+    }
   </style>
 </head>
 <body>
   We are coffee...coffee is us...coffee is life....<span class="blue">42</span>!
 
-  <!-- Link to Google Maps location as an image -->
-  <a href="https://www.google.com/maps/place/Clyde+Coffee/@46.8642774,-114.0153565,14z/data=!4m10!1m2!2m1!1scoffee+shop!3m6!1s0x535dcdd25591d559:0xd6f685fa4010985b!8m2!3d46.8642774!4d-113.997847!15sCgtjb2ZmZWUgc2hvcFoNIgtjb2ZmZWUgc2hvcJIBC2NvZmZlZV9zaG9wmgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVJQY1ZsWVVWSkJFQUXgAQA!16s%2Fg%2F11bv_djcl3?entry=ttu" target="_blank">
-    <img src="PATH_TO_YOUR_IMAGE" alt="Google Maps Location" width="600" height="450">
-  </a>
+  <!-- Embed live Google Maps view -->
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3166.149076288625!2d-113.997847!3d46.8642774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x535dcdd25591d559%3A0xd6f685fa4010985b!2sClyde%20Coffee!5e0!3m2!1sen!2sus!4v1648792361113!5m2!1sen!2sus" frameborder="0" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
   <ul>
     <li> Home Page <a href="https://kenzie-nice.github.io/Kenzie_Nice.github.io/">Home we go!</a></li>
@@ -25,5 +27,4 @@
   </ul>
 </body>
 </html>
-
 
