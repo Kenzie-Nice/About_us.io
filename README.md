@@ -2,7 +2,7 @@
 <head>
   <style>
     body {
-      font-size: 24px; /* Adjust font size as needed */
+      font-size: 42px; /* Adjust font size as needed */
     }
     .blue {
       color: blue;
