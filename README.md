@@ -6,17 +6,17 @@
     <title>Coffee Making Guide</title>
     <style>
         body {
-            background-color: #e0f2f1; /* Light blue background color */
+            background-color: #e0f2f1;
         }
         body {
-            font-size: 420px; /* Adjust font size as needed */
+            font-size: 420px;
         }
         .blue {
             color: blue;
         }
         iframe {
             width: 100%;
-            height: 600px; /* Adjust height as needed */
+            height: 600px;
         }
     </style>
 </head>
